@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">@android:color/background_dark</color>
+    ---any resource you add to alternate folders must be in the original values folder---
+</resources>
